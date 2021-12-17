@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 public class Exercicio1 {
-    public static void main(String[] args){
+    public static void main(String[] args) throws Exception{
 
         Scanner entrada = new Scanner(System.in);
 
@@ -14,7 +14,7 @@ public class Exercicio1 {
         anoAtual = entrada.nextInt();
 
         idade = anoAtual - anoNascimento;
-        System.out.print("A sua idade é: "+idade);
+        System.out.print("A sua idade é: "+idade+" anos");
 
         entrada.close();
     }

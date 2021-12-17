@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 public class Exercicio3 {
-    public static void main(String[] args){
+    public static void main(String[] args) throws Exception{
         Scanner entrada = new Scanner(System.in);
 
         double salario, valorEmprestimo;
@@ -13,7 +13,7 @@ public class Exercicio3 {
         valorEmprestimo = entrada.nextDouble();
 
         if((valorEmprestimo)>(0.30*salario))
-            System.out.println("Valor fora da margem de empréstimo, tente novamente");
+            System.out.println("Valor fora da margem de empréstimo, tente novamente!");
         else
             System.out.println("Você pode fazer o empréstimo :)");
         
