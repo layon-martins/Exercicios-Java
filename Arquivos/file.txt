@@ -1,0 +1,40 @@
+Nome: Layon Martins 
+Sexo: M 
+Peso: 112
+Idade: 21
+Altura: 1.80
+Nome: Ana Fernandes
+Sexo: F
+Peso: 60
+Idade: 20
+Altura: 1.69
+Nome: Joao Gomes Silva
+Sexo: M
+Peso: 85
+Idade: 25
+Altura: 1.72
+Nome: Carlos Augusto
+Sexo: M
+Peso: 98
+Idade: 23
+Altura: 1.78
+Nome: Beatriz Souza
+Sexo: F
+Peso: 71
+Idade: 26
+Altura: 1.72
+Nome: Giovana Campos
+Sexo: F
+Peso: 73
+Idade: 18
+Altura: 1.72
+Nome: Fernando Goncalves
+Sexo: M
+Peso: 91
+Idade: 42
+Altura: 1.81
+Nome: Maria Eduarda
+Sexo: F
+Peso: 50
+Idade: 15
+Altura: 1.50
