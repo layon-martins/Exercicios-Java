@@ -1,3 +1,3 @@
-# Exercícios básico em Java
+# Exercícios básicos em Java
 
 
